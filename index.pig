@@ -34,7 +34,7 @@ header
               a(href='#') Технологии
             li
               a(href='#') Experience
-          ul.header__soc
+          ul.header__soc.soc-mobile 
             li
               a(href='#')
             li
